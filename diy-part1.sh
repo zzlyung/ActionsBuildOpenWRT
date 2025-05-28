@@ -16,3 +16,4 @@ git clone --depth=1 https://github.com/immortalwrt/homeproxy.git package/homepro
 
 #git clone https://github.com/281677160/openwrt-package package/openwrt-package
 git clone https://github.com/vernesong/OpenClash package/OpenClash
+git clone -b 18.06 https://github.com/jerrykuku/luci-app-argon-config.git luci-app-argon-config
