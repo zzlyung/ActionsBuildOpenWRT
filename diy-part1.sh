@@ -16,3 +16,4 @@ sed -i '$a src-git helloworld https://github.com/fw876/helloworld.git' ./feeds.c
 git clone https://github.com/vernesong/OpenClash package/OpenClash
 git clone -b 18.06 https://github.com/jerrykuku/luci-app-argon-config.git luci-app-argon-config
 #git clone -b 18.06 https://github.com/jerrykuku/luci-theme-argon.git luci-theme-argon
+git clone https://github.com/BCYDTZ/luci-app-UUGameAcc.git package/luci-app-UUGameAcc
