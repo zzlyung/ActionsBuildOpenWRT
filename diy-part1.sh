@@ -17,3 +17,4 @@ git clone https://github.com/vernesong/OpenClash package/OpenClash
 git clone -b 18.06 https://github.com/jerrykuku/luci-app-argon-config.git luci-app-argon-config
 #git clone -b 18.06 https://github.com/jerrykuku/luci-theme-argon.git luci-theme-argon
 git clone https://github.com/BCYDTZ/luci-app-UUGameAcc.git package/luci-app-UUGameAcc
+git clone https://github.com/Droid-MAX/luci-app-lingtigamebooster.git package/luci-app-lingtigamebooster
