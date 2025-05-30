@@ -18,3 +18,4 @@ git clone -b 18.06 https://github.com/jerrykuku/luci-app-argon-config.git luci-a
 #git clone -b 18.06 https://github.com/jerrykuku/luci-theme-argon.git luci-theme-argon
 git clone https://github.com/BCYDTZ/luci-app-UUGameAcc package/luci-app-UUGameAcc
 git clone https://github.com/Droid-MAX/luci-app-lingtigamebooster package/luci-app-lingtigamebooster
+git clone https://github.com/lisaac/luci-app-diskman.git package/luci-app-diskman
