@@ -13,9 +13,6 @@ git clone --depth=1 https://github.com/immortalwrt/homeproxy.git package/homepro
 git clone https://github.com/vernesong/OpenClash package/OpenClash
 git clone https://github.com/xiaorouji/openwrt-passwall2 package/openwrt-passwall2
 
-#281677160
-#git clone https://github.com/281677160/openwrt-package package/openwrt-package
-
 git clone https://github.com/jerrykuku/luci-theme-argon.git package/luci-theme-argon
 git clone https://github.com/jerrykuku/luci-app-argon-config.git package/luci-app-argon-config
 git clone https://github.com/BCYDTZ/luci-app-UUGameAcc package/luci-app-UUGameAcc
