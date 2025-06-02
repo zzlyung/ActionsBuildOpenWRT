@@ -12,7 +12,7 @@ sed -i '$a src-git nikki https://github.com/nikkinikki-org/OpenWrt-nikki.git;mai
 # homeproxy
 git clone --depth=1 https://github.com/immortalwrt/homeproxy.git package/homeproxy
 
-git clone https://github.com/281677160/openwrt-package package/openwrt-package
+#git clone https://github.com/281677160/openwrt-package package/openwrt-package
 git clone https://github.com/vernesong/OpenClash package/OpenClash
 git clone https://github.com/jerrykuku/luci-theme-argon.git package/luci-theme-argon
 git clone https://github.com/jerrykuku/luci-app-argon-config.git package/luci-app-argon-config
