@@ -21,3 +21,5 @@ git clone https://github.com/BCYDTZ/luci-app-UUGameAcc package/luci-app-UUGameAc
 git clone https://github.com/Droid-MAX/luci-app-lingtigamebooster package/luci-app-lingtigamebooster
 git clone https://github.com/lisaac/luci-app-diskman package/luci-app-diskman
 git clone https://github.com/sirpdboy/luci-app-netdata package/luci-app-netdata
+rm -rf feeds/packages/lang/golang
+git clone https://github.com/kenzok8/golang feeds/packages/lang/golang
