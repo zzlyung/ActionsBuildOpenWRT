@@ -17,7 +17,7 @@ git clone https://github.com/xiaorouji/openwrt-passwall-packages package/openwrt
 
 git clone https://github.com/jerrykuku/luci-theme-argon.git package/luci-theme-argon
 git clone https://github.com/jerrykuku/luci-app-argon-config.git package/luci-app-argon-config
-git clone https://github.com/BCYDTZ/luci-app-UUGameAcc package/luci-app-UUGameAcc
+#git clone https://github.com/BCYDTZ/luci-app-UUGameAcc package/luci-app-UUGameAcc
 git clone https://github.com/Droid-MAX/luci-app-lingtigamebooster package/luci-app-lingtigamebooster
 git clone https://github.com/lisaac/luci-app-diskman package/luci-app-diskman
 git clone https://github.com/sirpdboy/luci-app-netdata package/luci-app-netdata
